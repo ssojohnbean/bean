@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+    header { text-align: center; }
+    h1 { margin-bottom: 0; }
+    nav a { margin: 0 10px; text-decoration: none; color: #0077cc; }
+    section { margin-top: 30px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hello, I’m Your Name</h1>
+    <p>18-year-old student interested in science, maths, and tech ✨</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m passionate about learning, explaining concepts, and solving problems. Right now I’m exploring coding and building my portfolio!</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Science Investigation</strong> — Gallery + PDF write-up of my VCE project.</li>
+      <li><strong>Python Mini-Project</strong> — Simple script to visualize data.</li>
+      <li><strong>Notes Archive</strong> — Helpful study notes I made (Links).</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+  </section>
+
+</body>
+</html>
